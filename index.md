@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# python-course
+Hi, MaoMaoCai
 
-You can use the [editor on GitHub](https://github.com/hangyu-feng/python-course/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Course Website: https://github.com/hangyu-feng/python-course
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/thinkcs/python/english3e/) -- [Interactive Version](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
 
-```markdown
-Syntax highlighted code block
+1. [Course 1](#course-1)
 
-# Header 1
-## Header 2
-### Header 3
+## Course 1
 
-- Bulleted
-- List
+1. Python installation
 
-1. Numbered
-2. List
+1. Introduction to Git
 
-**Bold** and _Italic_ and `Code` text
+1. Choose your editor
 
-[Link](url) and ![Image](src)
-```
+1. your first program: helloworld!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. variables and built-in datatypes
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hangyu-feng/python-course/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. functions
