@@ -12,7 +12,7 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
 
 ## [Course 1](course-contents/course-1)
 
-1. install Python and run first line of code
+1. install Python and run the first line of code
 
 1. Introduction to Git
 
