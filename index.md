@@ -10,7 +10,7 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
 
 1. [Course 1](#course-1)
 
-## [Course 1](course-contents/course-1)
+## [Course 1](https://github.com/hangyu-feng/python-course/tree/master/course-contents/course-1)
 
 1. install Python and run the first line of code
 
