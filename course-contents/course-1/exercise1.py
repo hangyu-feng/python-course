@@ -4,13 +4,17 @@ def nth_digit(num: int, n: int) -> int:
         nth_digit(num, n) return the nth digit of num
         if n is too large or too small, return -1
     """
-    pass
+    if (n < 0) or (10**n > num):
+        return -1
+    else:
+        return num%(10**n)//(10**n)
+    
 
 
 # question 2:  convert_to_upper:  Convert the strs in the given list to uppercase.
 def convert_to_upper(string_list: list[str]):
     """ Convert the strs in the given list to uppercase. """
-    pass
+    
 
 # question 3
 def get_x_strs(l: list[str]) -> list[str]:
