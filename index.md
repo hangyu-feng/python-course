@@ -12,6 +12,26 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
 
 1. [Course 2](#course-2)
 
+1. [Course 3](#course-3)
+
+1. [Course 4](#course-4)
+
+1. [Course 5](#course-5)
+
+1. [Course 6](#course-6)
+
+1. [Course 7](#course-7)
+
+1. [Course 8](#course-8)
+
+1. [Course 9](#course-9)
+
+1. [Course 10](#course-10)
+
+1. [Course 11](#course-11)
+
+1. [Course 12](#course-12)
+
 ## [Course 1](https://github.com/hangyu-feng/python-course/tree/master/course-contents/course-1)
 
 1. install Python and run the first line of code
@@ -87,4 +107,3 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
 
 1. numpy, scipy, pandas, and matplotlib
 1. using python to solve scientific problems
-2. 
