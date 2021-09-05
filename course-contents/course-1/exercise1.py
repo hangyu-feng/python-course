@@ -1,14 +1,12 @@
 # question 1: define a function nth_digit such that:
 # nth_digit(num, n) return the nth digit of num
 # if n is too large or too small, return -1
-
 def nth_digit(num: int, n: int) -> int:
     """ put your code below """
     pass
 
 
 # question 2:  convert_to_upper:  Convert the strs in the given list to uppercase.
-
 def convert_to_upper(string_list: list[str]):
     """ Convert the strs in the given list to uppercase. """
     pass
