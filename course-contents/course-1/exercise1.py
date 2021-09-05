@@ -1,8 +1,9 @@
-# question 1: define a function nth_digit such that:
-# nth_digit(num, n) return the nth digit of num
-# if n is too large or too small, return -1
+# question 1
 def nth_digit(num: int, n: int) -> int:
-    """ put your code below """
+    """ define a function nth_digit such that:
+        nth_digit(num, n) return the nth digit of num
+        if n is too large or too small, return -1
+    """
     pass
 
 
