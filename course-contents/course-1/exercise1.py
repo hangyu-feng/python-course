@@ -8,13 +8,12 @@ def nth_digit(num: int, n: int) -> int:
         return -1
     else:
         return num%(10**n)//(10**n)
-    
-
 
 # question 2:  convert_to_upper:  Convert the strs in the given list to uppercase.
 def convert_to_upper(string_list: list[str]):
     """ Convert the strs in the given list to uppercase. """
-    
+    pass
+
 
 # question 3
 def get_x_strs(l: list[str]) -> list[str]:
@@ -23,3 +22,8 @@ def get_x_strs(l: list[str]) -> list[str]:
         character 'x'. Do not alter l.
     """
     pass
+
+
+if __name__ == "__main__":
+    result = nth_digit(15, 1)
+    print(result, result == 1)
