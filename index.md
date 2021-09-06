@@ -45,16 +45,12 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
 1. Loops and iterations
 1. modules
 1. files
-1. what is operating system
-1. software tools: shells, git
-
-## Course 3
-
+1. what is shell
 1. class and objects
 1. Object-Oriented Programming (OOP)
 1. inheritance
 
-## Course 4
+## Course 3
 
 1. time/space complexity and big-O notation
 3. recursion, split-and-conquer
@@ -63,26 +59,26 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
     - binary search
     - sorting algorithms
     - merge two sorted lists
- 
-## Course 5
+
+## Course 4
 
 1. greedy algorithms
 1. dynamic programming
 
-## Course 6
+## Course 5
 
 1. linked lists
 1. stacks and queues
 3. trees and graphs
 
-## Course 7
+## Course 6
 
 1. priority queue
 1. heaps
 1. balanced binary search trees
 1. augmenting datastructures
 
-## Course 8
+## Course 7
 
 1. Hasing
 1. Randomized algorithms - quicksort as an example
@@ -90,20 +86,20 @@ Textbook:  [How to Think Like a Computer Scientist](https://openbookproject.net/
 1. Disjoind sets
 1. Minimum spanning tree
 
-## Course 9
+## Course 8
 
 1. Linear Programming
 1. Flow Networks
 1. more about greedy algorithms
 1. more about dynamic programming
 
-## Course  10
+## Course  9
 
 1. Review of multivariable calculus
 1. review of linear algebra
 1. review of probabilities
 
-## Course 11
+## Course 10
 
 1. numpy, scipy, pandas, and matplotlib
 1. using python to solve scientific problems
