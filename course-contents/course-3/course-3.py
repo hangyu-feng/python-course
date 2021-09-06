@@ -48,3 +48,26 @@ def find(l: list[int], n: int):
 
     see exercise-3
     """
+    if not l:
+        return -1
+    m = len(l) // 2
+    if l[m] == n:
+        return m
+    if l[m] > n:
+        return find(l[:m], n)
+    right = find(l[m+1:], n)
+    if right == -1:
+        return -1
+    return m + right + 1
+
+if __name__ == "__main__":
+    cases = [
+        [[1, 2, 3, 4, 5], 1, 0],
+        [[1, 2, 3, 4, 5], 5, 4],
+        [[1, 2, 3, 4, 5], 6, -1],
+        [[], 0, -1],
+        [[1,2], -1, -1],
+        [[1,2,3,4,5,6,7,8,10], 9, -1]
+    ]
+    for l, n, result in cases:
+        print(find(l, n), find(l, n) == result)
