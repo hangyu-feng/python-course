@@ -28,6 +28,14 @@ def get_x_strs(l: list[str]) -> list[str]:
             newl.append(string)
     return newl
 
+# question 4
+def remove_vowels(s: str) -> str:
+    """ Return a new str that is identical to the input str except
+        that the vowels have been removed. Vowels are the letters
+        a,e,i,o,u. We do not consider y a vowel.
+    """
+    pass
+
 
 if __name__ == "__main__":
     cases = [
@@ -39,11 +47,10 @@ if __name__ == "__main__":
     ]
     for case in cases:
         result = nth_digit(case[0][0], case[0][1])
-        print(result, result == case[1]) 
+        print(result, result == case[1])
 
     str1 = ["abc", "ABC"]
     convert_to_upper(str1)
     print(str1, str1 == ["ABC", "ABC"])
-    
     str2 = ["abc", "xyz"]
     print(get_x_strs(str2), get_x_strs(str2) == ["xyz"]) 
