@@ -22,7 +22,11 @@ def get_x_strs(l: list[str]) -> list[str]:
         the elements of l that are strs that contain the
         character 'x'. Do not alter l.
     """
-    pass
+    newl = []
+    for string in l:
+        if "x" in string:
+            newl.append(string)
+    return newl
 
 
 if __name__ == "__main__":
@@ -41,3 +45,5 @@ if __name__ == "__main__":
     convert_to_upper(str1)
     print(str1, str1 == ["ABC", "ABC"])
     
+    str2 = ["abc", "xyz"]
+    print(get_x_strs(str2), get_x_strs(str2) == ["xyz"]) 
