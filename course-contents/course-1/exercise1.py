@@ -36,7 +36,7 @@ def remove_vowels(s: str) -> str:
         a,e,i,o,u. We do not consider y a vowel.
     """
     vowels = {'a','e','i','o','u'}
-    l = [c for c in s if c not in vowels]
+    l = [c for c in s if not (c in vowels)]
     return "".join(l)
 
 
